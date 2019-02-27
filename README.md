@@ -1,5 +1,7 @@
 # Handoff4Windows
-这是一个让 Windows 支持 Handoff 剪贴板的 AHK（AutoHotKey）脚本，基于 Bark 推送服务。Made by [Tp](https://sspai.com/user/749322)
+这是一个让 Windows 支持 Handoff 剪贴板的 AHK（AutoHotKey）脚本，基于 Bark 推送服务。
+
+Made by [Tp](https://sspai.com/user/749322)
 ## 使用方法
 使用前请务必在程序根目录创建 `url.txt` 文件，并将你的 Bark 推送链接以 `https://服务器/设备识别码/` 的格式粘贴进去。
 
