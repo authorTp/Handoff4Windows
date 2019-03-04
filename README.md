@@ -7,7 +7,7 @@ Made by [Tp](https://sspai.com/user/749322)
 
 此脚本会在后台常驻，运行脚本后，按下 `Ctrl + Alt + C` 即可将剪贴板内容推送至你的设备。
 
-如果你需要让脚本在开机时自行启动，则可以将它放到 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp` 文件夹中（包含 url.txt 文件）
+如果你需要让脚本在开机时自行启动，则可以在 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp` 文件夹中创建快捷方式。
 ## 如果你需要修改快捷键
 如果你需要修改快捷键，可以用文本编辑器打开 `Handoff for Windows.ahk` 并修改第 3 行的 `^!c` 为你想要的快捷键。
 下附对照表：
